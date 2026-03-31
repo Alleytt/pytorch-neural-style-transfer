@@ -2,7 +2,7 @@
 
 一个基于PyTorch实现的神经风格迁移项目，将艺术风格从一幅图像转移到另一幅图像。
 
-![示例效果](https://github.com/yourusername/neural-style-transfer/raw/main/data/examples/figures/figures_vg_starry_night_w_350_m_vgg19_cw_100000.0_sw_30000.0_tv_1.0_resized.jpg)
+![示例效果](https://github.com/Alleytt/neural-style-transfer/raw/main/data/examples/figures/figures_vg_starry_night_w_350_m_vgg19_cw_100000.0_sw_30000.0_tv_1.0_resized.jpg)
 
 ## 安装
 

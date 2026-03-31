@@ -8,7 +8,7 @@
 
 1. 克隆仓库
    ```bash
-   git clone https://github.com/yourusername/neural-style-transfer.git
+   git clone https://github.com/Alleytt/neural-style-transfer.git
    cd neural-style-transfer
 # 使用Conda
 conda env create -f environment.yml
